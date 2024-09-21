@@ -1,0 +1,135 @@
+body{
+  background-color:  rgb(173, 222, 250);
+
+}
+.container{
+width: 70%;
+margin: 0 auto; /* Centering the container */
+padding: 20px;
+border: 2px solid #5b4545;
+background-color: rgb(211, 224, 241);
+border-radius: 6px;
+}
+
+.fa{
+   text-align:  center;
+   background-color: rgb(240, 192, 229);
+   border-radius: 5px;
+   border: 2px solid rgb(243, 126, 233);
+    width: 40%;
+
+    margin-left: 20px;
+    margin-top: 30px;  
+
+}
+
+.abc{
+margin-left: 20px;
+margin-top: 30px;  
+  background-color:  rgb(240, 192, 229);
+  height: 38rem;
+  width:40%;
+  border-radius: 5px;
+  flex-direction: column;
+  padding-top: 4px;
+text-indent: 20px;
+}
+
+img{
+
+height: 200px;
+width: 200px;
+
+border-radius: 50%;
+margin: 20px;
+
+}
+
+.def{
+margin-left: 20px;
+margin-top: 30px;
+background-color: rgb(240, 192, 229);
+/* height: 32rem; */
+width:40%;
+height: 10rem;
+width:40%;
+border-radius: 5px;
+flex-direction: column;
+padding-top: 4px;
+text-indent: 20px;
+}
+.ghi{
+margin-left: 20px;
+margin-top: 30px;
+background-color:  rgb(240, 192, 229);
+/* height: 32rem; */
+width:40%;
+height: 10rem;
+width:40%;
+border-radius: 5px;
+flex-direction: column;
+padding-top: 4px;
+text-indent: 20px;
+}
+.jkl{
+margin-left: 20px;
+margin-top: 30px;
+background-color: rgb(240, 192, 229);
+height: 10rem;
+width:40%;
+border-radius: 5px;
+flex-direction: column;
+padding-top: 4px;
+text-indent: 20px;
+}
+
+button{
+border-radius: 3px;
+background-color: aqua;
+margin-top: 5px;
+margin-left: 20px;
+padding: 2px;
+text-align: center;
+font-size: 16px;
+border: 2px solid;
+cursor: pointer;
+ transition: background-color 0.3s ease; /* Smooth transition */
+      }
+
+/* Hover effect */
+      button:hover {
+          background-color: #454ca0; /* Darker green on hover */
+      }
+
+
+#Abcd{
+margin-left: 20px;
+margin-top: 30px;
+background-color: rgb(240, 192, 229);
+height: 8rem;
+width:40%;
+border-radius: 5px;
+flex-direction: column;
+padding-top: 4px;
+text-indent: 20px;
+/* display: none; */
+}
+
+@media (min-with:475px) {}
+
+
+@media (min-with:640px) {}
+
+
+@media (min-with:768px) {}
+
+
+@media (min-with:1024px) {}
+
+
+@media (min-with:1280px) {}
+
+
+
+@media (min-with:1536) {}
+
